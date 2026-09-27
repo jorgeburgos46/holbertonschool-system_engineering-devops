@@ -8,3 +8,4 @@ Whiteboarding exercises designing web infrastructure: servers, DNS, load balance
 | ---- | ---- | ----------- |
 | 0 | [0-simple_web_stack](0-simple_web_stack) | Simple one-server LAMP web stack design |
 | 1 | [1-distributed_web_infrastructure](1-distributed_web_infrastructure) | Three-server distributed web infrastructure with load balancer |
+| 2 | [2-secured_and_monitored_web_infrastructure](2-secured_and_monitored_web_infrastructure) | Secured (firewalls, HTTPS) and monitored web infrastructure |
